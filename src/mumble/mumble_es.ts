@@ -8270,8 +8270,8 @@ Una credencial de acceso es una cadena de texto que puede ser usada como contras
     <message numerus="yes">
         <source>Registered users: %n account(s)</source>
         <translation>
-            <numerusform>Usuarios registrados: %n cuenta(s)</numerusform>
-            <numerusform>Usuarios registrados: %n cuenta(s)</numerusform>
+            <numerusform>Usuarios registrados: %n cuenta</numerusform>
+            <numerusform>Usuarios registrados: %n cuentas</numerusform>
         </translation>
     </message>
     <message>
